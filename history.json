@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1712345678901,
+    "tanggal": "2024-04-05T10:30:00Z",
+    "orderData": {
+      "deskripsi": "Kebaya brokat dengan payet, lengan panjang, warna emas",
+      "kategori": "dewasa",
+      "jenisKelamin": "wanita",
+      "jenisPakaian": "kebaya-set",
+      "jumlah": 1,
+      "ukuran": {
+        "panjangBahu": 40,
+        "lingkarDada": 90,
+        "lingkarPinggang": 72,
+        "lingkarPinggul": 95,
+        "lingkarLenganAtas": 30,
+        "panjangLengan": 55,
+        "panjangBaju": 65,
+        "lingkarPinggangBawahan": 72,
+        "lingkarPinggulBawahan": 95,
+        "lingkarPaha": 50,
+        "lingkarLutut": 35,
+        "lingkarBawahCelana": 25,
+        "panjangCelana": 90,
+        "panjangSelangkangan": 70
+      },
+      "bahan": "ogta"
+    },
+    "aiAnalysis": {
+      "jenis": "Kebaya",
+      "detail": ["Brokat", "Payet", "Resleting Belakang", "Lengan Panjang"],
+      "kerumitan": "Rumit",
+      "confidence": 96
+    },
+    "priceResult": {
+      "harga": 750000,
+      "estimasiHari": 14,
+      "bonus": null,
+      "kategori": "Kebaya",
+      "isSet": true
+    },
+    "images": ["1712345678901_1.jpg", "1712345678901_2.jpg"],
+    "status": "selesai"
+  },
+  {
+    "id": 1712345678902,
+    "tanggal": "2024-04-06T14:20:00Z",
+    "orderData": {
+      "deskripsi": "Jas formal hitam untuk pernikahan",
+      "kategori": "dewasa",
+      "jenisKelamin": "pria",
+      "jenisPakaian": "jas-set",
+      "jumlah": 2,
+      "ukuran": {
+        "panjangBahu": 45,
+        "lingkarDada": 100,
+        "lingkarPinggang": 85,
+        "lingkarPinggul": 100,
+        "lingkarLenganAtas": 35,
+        "panjangLengan": 60,
+        "panjangBaju": 72,
+        "lingkarPinggangBawahan": 85,
+        "lingkarPinggulBawahan": 100,
+        "lingkarPaha": 55,
+        "lingkarLutut": 38,
+        "lingkarBawahCelana": 28,
+        "panjangCelana": 95,
+        "panjangSelangkangan": 75
+      },
+      "bahan": "ogta"
+    },
+    "aiAnalysis": {
+      "jenis": "Jas",
+      "detail": ["Slim Fit", "Kancing 3", "Saku Dalam", "Ventilasi Belakang"],
+      "kerumitan": "Sedang",
+      "confidence": 92
+    },
+    "priceResult": {
+      "harga": 2500000,
+      "estimasiHari": 10,
+      "bonus": null,
+      "kategori": "Jas",
+      "isSet": true
+    },
+    "images": ["1712345678902_1.jpg"],
+    "status": "proses"
+  },
+  {
+    "id": 1712345678903,
+    "tanggal": "2024-04-07T09:15:00Z",
+    "orderData": {
+      "deskripsi": "Baju muslim anak laki-laki, warna biru muda",
+      "kategori": "anak",
+      "jenisKelamin": "pria",
+      "jenisPakaian": "baju-muslim-set",
+      "jumlah": 1,
+      "ukuran": {
+        "panjangBahu": 30,
+        "lingkarDada": 65,
+        "lingkarPinggang": 55,
+        "lingkarPinggul": 65,
+        "lingkarLenganAtas": 22,
+        "panjangLengan": 40,
+        "panjangBaju": 50,
+        "lingkarPinggangBawahan": 55,
+        "lingkarPinggulBawahan": 65,
+        "lingkarPaha": 35,
+        "lingkarLutut": 25,
+        "lingkarBawahCelana": 18,
+        "panjangCelana": 60,
+        "panjangSelangkangan": 45
+      },
+      "bahan": "sendiri"
+    },
+    "aiAnalysis": {
+      "jenis": "Baju Muslim",
+      "detail": ["Kancing Depan", "Kerah", "Lengan Panjang", "Kain Katun"],
+      "kerumitan": "Mudah",
+      "confidence": 88
+    },
+    "priceResult": {
+      "harga": 180000,
+      "estimasiHari": 5,
+      "bonus": ["Gratis 1 Peci"],
+      "kategori": "Baju Muslim",
+      "isSet": true
+    },
+    "images": ["1712345678903_1.jpg", "1712345678903_2.jpg"],
+    "status": "menunggu_bahan"
+  },
+  {
+    "id": 1712345678904,
+    "tanggal": "2024-04-08T16:45:00Z",
+    "orderData": {
+      "deskripsi": "Gaun muslim untuk acara keluarga, warna hijau emerald",
+      "kategori": "dewasa",
+      "jenisKelamin": "wanita",
+      "jenisPakaian": "gaun-muslim",
+      "jumlah": 1,
+      "ukuran": {
+        "panjangBahu": 38,
+        "lingkarDada": 88,
+        "lingkarPinggang": 70,
+        "lingkarPinggul": 92,
+        "lingkarLenganAtas": 28,
+        "panjangLengan": 52,
+        "panjangBaju": 130,
+        "lingkarPinggangBawahan": 70,
+        "lingkarPinggulBawahan": 92,
+        "lingkarPaha": 48,
+        "lingkarLutut": 32,
+        "lingkarBawahCelana": 22,
+        "panjangCelana": 88,
+        "panjangSelangkangan": 68
+      },
+      "bahan": "ogta"
+    },
+    "aiAnalysis": {
+      "jenis": "Gaun Muslim",
+      "detail": ["Dress Panjang", "Lengan Panjang", "Payet", "Aksen Pita"],
+      "kerumitan": "Rumit",
+      "confidence": 94
+    },
+    "priceResult": {
+      "harga": 650000,
+      "estimasiHari": 12,
+      "bonus": null,
+      "kategori": "Gaun Muslim",
+      "isSet": false
+    },
+    "images": ["1712345678904_1.jpg", "1712345678904_2.jpg", "1712345678904_3.jpg"],
+    "status": "selesai"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": "kebaya",
+      "name": "Kebaya",
+      "setMin": 500000,
+      "setMax": 800000,
+      "atasanMin": 200000,
+      "atasanMax": 400000,
+      "bawahanMin": 200000,
+      "bawahanMax": 400000,
+      "sizes": {
+        "S": 0,
+        "M": 50000,
+        "L": 100000,
+        "XL": 150000
+      }
+    },
+    {
+      "id": "baju-muslim",
+      "name": "Baju Muslim",
+      "setMin": 200000,
+      "setMax": 500000,
+      "atasanMin": 100000,
+      "atasanMax": 200000,
+      "bawahanMin": 100000,
+      "bawahanMax": 200000,
+      "sizes": {
+        "S": 0,
+        "M": 50000,
+        "L": 100000,
+        "XL": 150000
+      },
+      "bonus": ["Gratis 1 Peci"]
+    },
+    {
+      "id": "jas",
+      "name": "Jas",
+      "setMin": 700000,
+      "setMax": 3000000,
+      "jasMin": 700000,
+      "jasMax": 2500000,
+      "rompiMin": 200000,
+      "rompiMax": 400000,
+      "celanaMin": 200000,
+      "celanaMax": 400000,
+      "sizes": {
+        "S": 0,
+        "M": 100000,
+        "L": 200000,
+        "XL": 300000
+      }
+    },
+    {
+      "id": "gaun-muslim",
+      "name": "Gaun Muslim",
+      "setMin": 300000,
+      "setMax": 700000,
+      "sizes": {
+        "S": 0,
+        "M": 50000,
+        "L": 100000,
+        "XL": 150000
+      }
+    },
+    {
+      "id": "dress",
+      "name": "Dress / Gaun Pesta",
+      "setMin": 400000,
+      "setMax": 1000000,
+      "sizes": {
+        "S": 0,
+        "M": 75000,
+        "L": 150000,
+        "XL": 225000
+      }
+    }
+  ],
+  "bahan": {
+    "ogta": {
+      "name": "Menggunakan Bahan OGTA",
+      "markup": 1.2
+    },
+    "sendiri": {
+      "name": "Menggunakan Bahan Sendiri",
+      "markup": 0.9
+    }
+  }
+}
